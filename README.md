@@ -1,6 +1,6 @@
 # Brute Force Password Hacker
 
-This Python script demonstrates a simple brute-force password hacker that attempts to find a password by generating all possible combinations of characters up to a specified length. It uses the SHA-256 hashing algorithm to compare guessed passwords against a known hash.
+This Python script demonstrates a simple brute-force password hacker that I wrote in high school that attempts to find a password by generating all possible combinations of characters up to a specified length. It uses the SHA-256 hashing algorithm to compare guessed passwords against a known hash.
 
 ## Table of Contents
 
